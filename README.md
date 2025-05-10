@@ -8,3 +8,7 @@ npm install -D prettier prettier-plugin-tailwindcss
 Config font in tailwind config file
 
 Ep2: Use the Job component
+
+Ep3: Collections:
+md:grid-cols-2 -> 2 cols for mid length, e.g iPad 
+lg:grid-cols-3 ->
