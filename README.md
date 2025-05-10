@@ -6,3 +6,5 @@ https://github.com/tailwindlabs/prettier-plugin-tailwindcss:
 npm install -D prettier prettier-plugin-tailwindcss
 
 Config font in tailwind config file
+
+Ep2: Use the Job component
